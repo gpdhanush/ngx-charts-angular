@@ -3,32 +3,64 @@ export var lineChartMulti = [
     "name": "India",
     "series": [
     {
-        "name": "2010",
-        "value": 700
+        "name": "1995",
+        "value": 100
     },
     {
-        "name": "2011",
-        "value": 750
+        "name": "1996",
+        "value": 200
     },
     {
-        "name": "2012",
-        "value": 775
+        "name": "1997",
+        "value": 450
     },
     {
-        "name": "2013",
-        "value": 725
+        "name": "1998",
+        "value": 500
     },
     {
-        "name": "2014",
-        "value": 750
+        "name": "1999",
+        "value": 250
     },
     {
-        "name": "2015",
+        "name": "2000",
         "value": 800
     },
     {
-        "name": "2016",
-        "value": 860
+        "name": "2001",
+        "value": 1500
+    },
+    {
+        "name": "2002",
+        "value": 3500
+    },
+    {
+        "name": "2003",
+        "value": 4580
+    },
+    {
+        "name": "2004",
+        "value": 2500
+    },
+    {
+        "name": "2005",
+        "value": 6850
+    },
+    {
+        "name": "2006",
+        "value": 7257
+    },
+    {
+        "name": "2007",
+        "value": 7504
+    },
+    {
+        "name": "2008",
+        "value": 8004
+    },
+    {
+        "name": "2009",
+        "value": 8609
     }
     ]
 },
